@@ -19,8 +19,8 @@ Sou estudante da área de tecnologia, interessado em desenvolver soluções que 
 - Gestão orientada a dados
 
 🛠️ Conhecimentos que já apliquei
-- Banco de Dados:*MySQL e PostgreSQL.
-- Programação:*Python e JavaScript.
+- Banco de Dados:MySQL e PostgreSQL.
+- Programação:Python e JavaScript.
 - Desenvolvimento Web: HTML e CSS.
 - Modelagem: criação de diagramas e estruturas de banco de dados.
 - Projetos: desenvolvimento de sistemas acadêmicos e aplicações práticas.
@@ -31,4 +31,4 @@ Sou estudante da área de tecnologia, interessado em desenvolver soluções que 
 - Projetos SQL:modelagem, criação e gerenciamento de bancos de dados.
 
 📫 Contato profissional
-- LinkedIn:
+- LinkedIn:https://www.linkedin.com/in/joão-guilherme-dias-de-lima-santos-51859b309
