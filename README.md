@@ -26,7 +26,7 @@ Sou estudante da área de tecnologia, interessado em desenvolver soluções que 
 - Projetos: desenvolvimento de sistemas acadêmicos e aplicações práticas.
 
 🚀 Projetos em destaque
-- VPE – Valuation de Pequenas Empresas:** sistema web para avaliação de pequenas empresas.
+- VPE – Valuation de Pequenas Empresas: sistema web para avaliação de pequenas empresas.
 - Amigo Fiel:plataforma de adoção de animais.
 - Projetos SQL:modelagem, criação e gerenciamento de bancos de dados.
 
